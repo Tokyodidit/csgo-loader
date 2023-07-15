@@ -42,8 +42,8 @@ namespace WindowsFormsApp2
             string HWIDLIST = wb.DownloadString("https://pastebin.com/7ncfWDei"); //Replace "HWID List URL" with your own URL to a RAW text (txt) file with all your wanted HWIDs [Example: http://myurl.com/HWID.txt]
             if (HWIDLIST.Contains(textBox1.Text)) //You can add a "!" before the "HWIDLIST" and after the "if (" to make it into a blacklist HWID system instead of a whitelist HWID system
             {
-                string mainpath = "C:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\csgo-loader\\GitHub SimpleLoader\\Kitty.dll"; //You can change the path to wherever you want but just remember to use "\\" instead of just one "\"
-                wb.DownloadFile("", mainpath); //Replace "DLL URL" with the URL to directly download your DLL [Example: http://myurl.com/MYDLL.dll]
+                string mainpath = "C:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\csgo-loader"; //You can change the path to wherever you want but just remember to use "\\" instead of just one "\"
+                wb.DownloadFile("https://github.com/Tokyodidit/csgo-loader/blob/main/GitHub%20SimpleLoader/kitty.dll", mainpath); //Replace "DLL URL" with the URL to directly download your DLL [Example: http://myurl.com/MYDLL.dll]
                 var name = "csgo"; //Replace "csgo" with any exe you want [Example: For Team Fortress 2 you would replace it with "hl2"]
                 var target = Process.GetProcessesByName(name).FirstOrDefault();
                 var path = mainpath;
