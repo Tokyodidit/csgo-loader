@@ -15,3 +15,14 @@ C:\Cheat loader\GitHub SimpleLoader\obj\Release\Loader.csproj.GenerateResource.c
 C:\Cheat loader\GitHub SimpleLoader\obj\Release\Loader.csproj.CoreCompileInputs.cache
 C:\Cheat loader\GitHub SimpleLoader\obj\Release\SimpleLoader.exe
 C:\Cheat loader\GitHub SimpleLoader\obj\Release\SimpleLoader.pdb
+C:\Users\marcu\OneDrive\Documents\GitHub\csgo-loader\GitHub SimpleLoader\bin\Release\SimpleLoader.exe.config
+C:\Users\marcu\OneDrive\Documents\GitHub\csgo-loader\GitHub SimpleLoader\bin\Release\SimpleLoader.exe
+C:\Users\marcu\OneDrive\Documents\GitHub\csgo-loader\GitHub SimpleLoader\bin\Release\SimpleLoader.pdb
+C:\Users\marcu\OneDrive\Documents\GitHub\csgo-loader\GitHub SimpleLoader\obj\Release\Loader.csproj.AssemblyReference.cache
+C:\Users\marcu\OneDrive\Documents\GitHub\csgo-loader\GitHub SimpleLoader\obj\Release\Loader.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcu\OneDrive\Documents\GitHub\csgo-loader\GitHub SimpleLoader\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\marcu\OneDrive\Documents\GitHub\csgo-loader\GitHub SimpleLoader\obj\Release\SimpleLoader.Properties.Resources.resources
+C:\Users\marcu\OneDrive\Documents\GitHub\csgo-loader\GitHub SimpleLoader\obj\Release\Loader.csproj.GenerateResource.cache
+C:\Users\marcu\OneDrive\Documents\GitHub\csgo-loader\GitHub SimpleLoader\obj\Release\Loader.csproj.CoreCompileInputs.cache
+C:\Users\marcu\OneDrive\Documents\GitHub\csgo-loader\GitHub SimpleLoader\obj\Release\SimpleLoader.exe
+C:\Users\marcu\OneDrive\Documents\GitHub\csgo-loader\GitHub SimpleLoader\obj\Release\SimpleLoader.pdb
