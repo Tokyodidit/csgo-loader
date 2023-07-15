@@ -1,0 +1,17 @@
+C:\Users\marcu\OneDrive\Downloads\SimpleLoader-master\SimpleLoader-master\GitHub SimpleLoader\obj\Release\Loader.csproj.AssemblyReference.cache
+C:\Users\marcu\OneDrive\Downloads\SimpleLoader-master\SimpleLoader-master\GitHub SimpleLoader\obj\Release\Loader.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcu\OneDrive\Downloads\SimpleLoader-master\SimpleLoader-master\GitHub SimpleLoader\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\marcu\OneDrive\Downloads\SimpleLoader-master\SimpleLoader-master\GitHub SimpleLoader\obj\Release\SimpleLoader.Properties.Resources.resources
+C:\Users\marcu\OneDrive\Downloads\SimpleLoader-master\SimpleLoader-master\GitHub SimpleLoader\obj\Release\Loader.csproj.GenerateResource.cache
+C:\Users\marcu\OneDrive\Downloads\SimpleLoader-master\SimpleLoader-master\GitHub SimpleLoader\obj\Release\Loader.csproj.CoreCompileInputs.cache
+C:\Cheat loader\GitHub SimpleLoader\bin\Release\SimpleLoader.exe.config
+C:\Cheat loader\GitHub SimpleLoader\bin\Release\SimpleLoader.exe
+C:\Cheat loader\GitHub SimpleLoader\bin\Release\SimpleLoader.pdb
+C:\Cheat loader\GitHub SimpleLoader\obj\Release\Loader.csproj.AssemblyReference.cache
+C:\Cheat loader\GitHub SimpleLoader\obj\Release\Loader.csproj.SuggestedBindingRedirects.cache
+C:\Cheat loader\GitHub SimpleLoader\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Cheat loader\GitHub SimpleLoader\obj\Release\SimpleLoader.Properties.Resources.resources
+C:\Cheat loader\GitHub SimpleLoader\obj\Release\Loader.csproj.GenerateResource.cache
+C:\Cheat loader\GitHub SimpleLoader\obj\Release\Loader.csproj.CoreCompileInputs.cache
+C:\Cheat loader\GitHub SimpleLoader\obj\Release\SimpleLoader.exe
+C:\Cheat loader\GitHub SimpleLoader\obj\Release\SimpleLoader.pdb
